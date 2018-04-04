@@ -4,12 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>My First JSP Program  after a long ..long time </title>
 </head>
 <body>
 <p>
 ToDay is  <%=new java.util.Date()  %>
 </p>
-<p><b> HELLO Friends </b> </p>
+<p><b> Hello Friends </b> </p>
+
+
 </body>
 </html>
